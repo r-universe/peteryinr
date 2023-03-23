@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FinAna"]
+	path = FinAna
+	url = https://github.com/cran/FinAna
+	shallow = true
+	registered = true
+[submodule "YRmisc"]
+	path = YRmisc
+	url = https://github.com/cran/YRmisc
+	shallow = true
+	registered = true
