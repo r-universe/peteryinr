@@ -5,6 +5,3 @@
 [submodule "FinAna"]
 	path = FinAna
 	url = https://github.com/cran/FinAna
-[submodule "YRmisc"]
-	path = YRmisc
-	url = https://github.com/cran/YRmisc
